@@ -1,0 +1,3 @@
+D:/Projects/Android Demo Projects/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/encrypt.dir
+D:/Projects/Android Demo Projects/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+D:/Projects/Android Demo Projects/app/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v5
+5	1600	0	CMakeFiles/encrypt.dir/src/main/jni/aes/aes_util.c.o	8a76d3ad5f303475
+710	2392	0	CMakeFiles/encrypt.dir/src/main/jni/aes/aes.c.o	5a3c83dff95ec4ae
+2392	3297	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libencrypt.so	4500b027d63fbcf8
+2	1436	0	CMakeFiles/encrypt.dir/src/main/jni/aes/aes_util.c.o	8a76d3ad5f303475
+1436	2342	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libencrypt.so	4500b027d63fbcf8
